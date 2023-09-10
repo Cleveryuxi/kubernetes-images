@@ -1,1 +1,1 @@
-FROM docker.io/library/mysql/mysql:8.0-oracle@sha256:53ca64a889514c294b85d003de4de35098734a025c776d659fc75ae23a63f5c4
+FROM docker.io/library/mysql:8.0-oracle@sha256:f0e71f077bb27fe17b1b9551f75d1b35ad4dfe3a33c82412acf19684790f3a30
