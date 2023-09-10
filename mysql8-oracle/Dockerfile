@@ -1,1 +1,1 @@
-FROM hub.docker.io/vkvich/zabbix-mysql
+FROM docker.io/library/mysql/mysql:8.0-oracle@sha256:53ca64a889514c294b85d003de4de35098734a025c776d659fc75ae23a63f5c4
