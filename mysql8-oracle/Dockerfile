@@ -1,1 +1,1 @@
-FORM hub.docker.com/layers/library/mysql/8.0-oracle@sha256:53ca64a889514c294b85d003de4de35098734a025c776d659fc75ae23a63f5c4
+FORM hub.docker.io/library/mysql/8.0-oracle@sha256:53ca64a889514c294b85d003de4de35098734a025c776d659fc75ae23a63f5c4
